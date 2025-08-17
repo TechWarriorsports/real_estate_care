@@ -124,5 +124,5 @@ Als frontend prototype focust dit project op de gebruikersinterface en de intera
 Dit project is opgeleverd door middel van:
 
 *   Een werkend prototype: Toegankelijk via een online hostingdienst op: `reliable-baklava-6a3329.netlify.app`
-*   De broncode: Beschikbaar via GitHub op: `[https://github.com/TechWarriorsports/real_estate_care]` Let op: De `node_modules` map en andere gegenereerde bestanden zijn uitgesloten via `.gitignore`, conform de best practice.
+*   De broncode: Beschikbaar via GitHub op: `https://github.com/TechWarriorsports/real_estate_care` Let op: De `node_modules` map en andere gegenereerde bestanden zijn uitgesloten via `.gitignore`, conform de best practice.
 *   De debriefing: Als PDF-document, apart aangeleverd.
