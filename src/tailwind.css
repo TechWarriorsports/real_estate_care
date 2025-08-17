@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --rec-teal: #00AAA2;       /* rgb(0,170,162) */
+  --rec-ink: #293439;        /* rgb(41,52,57) logo-tekst */
+  --rec-slate: #475E6C;      /* secundaire donkere tint uit sheet */
+  --rec-almost-black: #141B1F;
+  --rec-bg: #F7FAFC;
+}
+.rec-text    { color: var(--rec-ink); }
+.rec-teal    { color: var(--rec-teal); }
+.rec-bg      { background: var(--rec-bg); }
+.rec-btn     { background: var(--rec-teal); color:#fff; }
+.rec-btn:hover{ filter: brightness(0.95); }
+.rec-card    { background:#fff; border:1px solid #e5e7eb; border-radius:12px; }
