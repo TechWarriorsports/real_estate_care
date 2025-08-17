@@ -44,8 +44,8 @@ Om dit prototype lokaal te draaien, volgt u de onderstaande stappen:
 
 1.  **Clone de repository:**
     ```bash
-    git clone [Jouw GitHub Repo URL hier]
-    cd [Naam van je repository map]
+    git clone https://github.com/TechWarriorsports/real_estate_care
+    cd real_estate_care
     ```
 2.  **Installeer afhankelijkheden:** Dit project is gebouwd met Node.js en maakt gebruik van npm (Node Package Manager) voor het beheer van afhankelijkheden. Zorg ervoor dat Node.js op uw systeem is geïnstalleerd.
     ```bash
